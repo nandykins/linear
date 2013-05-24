@@ -17,7 +17,6 @@ module Linear
   , module Linear.Epsilon
   , module Linear.Matrix
   , module Linear.Metric
-  , module Linear.Plucker
   , module Linear.Quaternion
   , module Linear.V0
   , module Linear.V2
@@ -32,7 +31,6 @@ import Linear.Epsilon
 import Linear.Instances ()
 import Linear.Matrix
 import Linear.Metric
-import Linear.Plucker
 import Linear.Quaternion
 import Linear.V0
 import Linear.V2
